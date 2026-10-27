@@ -2,7 +2,11 @@
 
 Meta Quest 3のハンドトラッキングで、両手からウェブを発射するUnity製VR / MRプロトタイプです。
 
-[体験動画を見る（13秒 / MP4）](demo.mp4)
+## 体験動画（13秒）
+
+https://github.com/user-attachments/assets/408cc20d-63dc-459d-9f97-a01f1b2de48c
+
+[高画質版をダウンロード](https://github.com/Iz7sev/web-swing-lab/raw/refs/heads/main/demo.mp4)
 
 [Unityプロジェクト一式をダウンロード](UnityProject.zip) · [C#ソースコードを読む](src/)
 
